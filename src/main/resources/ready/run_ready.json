@@ -1,0 +1,900 @@
+{
+  "championship": [
+    {
+      "name": "Championship Name 01",
+      "description": "Championship Description 01",
+      "realizationYear": 2013,
+      "initialDate": "2013-01-01",
+      "endDate": "2013-12-31",
+      "address": "Championship Address 01"
+    },
+    {
+      "name": "Championship Name 02",
+      "description": "Championship Description 02",
+      "realizationYear": 2014,
+      "initialDate": "2014-01-01",
+      "endDate": "2014-12-31",
+      "address": "Championship Address 02"
+    },
+    {
+      "name": "Championship Name 03",
+      "description": "Championship Description 03",
+      "realizationYear": 2015,
+      "initialDate": "2015-01-01",
+      "endDate": "2015-12-31",
+      "address": "Championship Address 03"
+    },
+    {
+      "name": "Championship Name 04",
+      "description": "Championship Description 04",
+      "realizationYear": 2016,
+      "initialDate": "2016-01-01",
+      "endDate": "2016-12-31",
+      "address": "Championship Address 04"
+    },
+    {
+      "name": "Championship Name 05",
+      "description": "Championship Description 05",
+      "realizationYear": 2017,
+      "initialDate": "2017-01-01",
+      "endDate": "2017-12-31",
+      "address": "Championship Address 05"
+    },
+    {
+      "name": "Championship Name 06",
+      "description": "Championship Description 06",
+      "realizationYear": 2018,
+      "initialDate": "2018-01-01",
+      "endDate": "2018-12-31",
+      "address": "Championship Address 06"
+    },
+    {
+      "name": "Championship Name 07",
+      "description": "Championship Description 07",
+      "realizationYear": 2019,
+      "initialDate": "2019-01-01",
+      "endDate": "2019-12-31",
+      "address": "Championship Address 07"
+    },
+    {
+      "name": "Championship Name 08",
+      "description": "Championship Description 08",
+      "realizationYear": 2020,
+      "initialDate": "2020-01-01",
+      "endDate": "2020-12-31",
+      "address": "Championship Address 08"
+    },
+    {
+      "name": "Championship Name 09",
+      "description": "Championship Description 09",
+      "realizationYear": 2021,
+      "initialDate": "2021-01-01",
+      "endDate": "2021-12-31",
+      "address": "Championship Address 09"
+    },
+    {
+      "name": "Championship Name 10",
+      "description": "Championship Description 10",
+      "realizationYear": 2022,
+      "initialDate": "2022-01-01",
+      "endDate": "2022-12-31",
+      "address": "Championship Address 10"
+    }
+  ],
+  "coach": [
+    {
+      "name": "Coach Name 01",
+      "email": "coachemail01@cbea.com.br",
+      "registrationNumber": "01",
+      "registrationDate": "2013-01-01",
+      "sexo": "M",
+      "cellPhone": "(11) 11111-1111",
+      "landline": "(11) 1111-1111",
+      "cep": "11111-111",
+      "address": "Coach Address 01",
+      "professionalFormationDescription": "Coach Professional Description 01",
+      "titlesNumber": 1
+    },
+    {
+      "name": "Coach Name 02",
+      "email": "coachemail02@cbea.com.br",
+      "registrationNumber": "02",
+      "registrationDate": "2014-01-01",
+      "sexo": "M",
+      "cellPhone": "(22) 22222-2222",
+      "landline": "(22) 2222-2222",
+      "cep": "22222-222",
+      "address": "Coach Address 02",
+      "professionalFormationDescription": "Coach Professional Description 02",
+      "titlesNumber": 2
+    },
+    {
+      "name": "Coach Name 03",
+      "email": "coachemail03@cbea.com.br",
+      "registrationNumber": "03",
+      "registrationDate": "2015-01-01",
+      "sexo": "M",
+      "cellPhone": "(33) 33333-3333",
+      "landline": "(33) 3333-3333",
+      "cep": "33333-333",
+      "address": "Coach Address 03",
+      "professionalFormationDescription": "Coach Professional Description 03",
+      "titlesNumber": 3
+    },
+    {
+      "name": "Coach Name 04",
+      "email": "coachemail04@cbea.com.br",
+      "registrationNumber": "04",
+      "registrationDate": "2016-01-01",
+      "sexo": "M",
+      "cellPhone": "(44) 44444-4444",
+      "landline": "(44) 4444-4444",
+      "cep": "44444-444",
+      "address": "Coach Address 04",
+      "professionalFormationDescription": "Coach Professional Description 04",
+      "titlesNumber": 4
+    },
+    {
+      "name": "Coach Name 05",
+      "email": "coachemail05@cbea.com.br",
+      "registrationNumber": "05",
+      "registrationDate": "2017-01-01",
+      "sexo": "M",
+      "cellPhone": "(55) 55555-5555",
+      "landline": "(55) 5555-5555",
+      "cep": "55555-555",
+      "address": "Coach Address 05",
+      "professionalFormationDescription": "Coach Professional Description 05",
+      "titlesNumber": 5
+    },
+    {
+      "name": "Coach Name 06",
+      "email": "coachemail06@cbea.com.br",
+      "registrationNumber": "06",
+      "registrationDate": "2018-01-01",
+      "sexo": "F",
+      "cellPhone": "(66) 66666-6666",
+      "landline": "(66) 6666-6666",
+      "cep": "66666-666",
+      "address": "Coach Address 06",
+      "professionalFormationDescription": "Coach Professional Description 06",
+      "titlesNumber": 6
+    },
+    {
+      "name": "Coach Name 07",
+      "email": "coachemail07@cbea.com.br",
+      "registrationNumber": "07",
+      "registrationDate": "2019-01-01",
+      "sexo": "F",
+      "cellPhone": "(77) 77777-7777",
+      "landline": "(31) 7777-7777",
+      "cep": "77777-777",
+      "address": "Coach Address 07",
+      "professionalFormationDescription": "Coach Professional Description 07",
+      "titlesNumber": 7
+    },
+    {
+      "name": "Coach Name 08",
+      "email": "coachemail08@cbea.com.br",
+      "registrationNumber": "08",
+      "registrationDate": "2020-01-01",
+      "sexo": "F",
+      "cellPhone": "(88) 88888-8888",
+      "landline": "(88) 8888-8888",
+      "cep": "88888-888",
+      "address": "Coach Address 08",
+      "professionalFormationDescription": "Coach Professional Description 08",
+      "titlesNumber": 8
+    },
+    {
+      "name": "Coach Name 09",
+      "email": "coachemail09@cbea.com.br",
+      "registrationNumber": "09",
+      "registrationDate": "2021-01-01",
+      "sexo": "F",
+      "cellPhone": "(99) 99999-9999",
+      "landline": "(99) 9999-9999",
+      "cep": "99999-999",
+      "address": "Coach Address 09",
+      "professionalFormationDescription": "Coach Professional Description 09",
+      "titlesNumber": 9
+    },
+    {
+      "name": "Coach Name 10",
+      "email": "coachemail10@cbea.com.br",
+      "registrationNumber": "10",
+      "registrationDate": "2022-01-01",
+      "sexo": "F",
+      "cellPhone": "(10) 10101-0101",
+      "landline": "(10) 1010-1010",
+      "cep": "10101-010",
+      "address": "Coach Address 10",
+      "professionalFormationDescription": "Coach Professional Description 10",
+      "titlesNumber": 10
+    }
+  ],
+  "proof": [
+    {
+      "name": "Proof Name 01",
+      "description": "Proof Description 01",
+      "realizationDate": "2013-01-01",
+      "realizationTime": 100000,
+      "realizationDistance": 10,
+      "championship": {
+        "id": 1
+      }
+    },
+    {
+      "name": "Proof Name 02",
+      "description": "Proof Description 02",
+      "realizationDate": "2014-01-01",
+      "realizationTime": 200000,
+      "realizationDistance": 20,
+      "championship": {
+        "id": 2
+      }
+    },
+    {
+      "name": "Proof Name 03",
+      "description": "Proof Description 03",
+      "realizationDate": "2015-01-01",
+      "realizationTime": 300000,
+      "realizationDistance": 30,
+      "championship": {
+        "id": 3
+      }
+    },
+    {
+      "name": "Proof Name 04",
+      "description": "Proof Description 04",
+      "realizationDate": "2016-01-01",
+      "realizationTime": 400000,
+      "realizationDistance": 40,
+      "championship": {
+        "id": 4
+      }
+    },
+    {
+      "name": "Proof Name 05",
+      "description": "Proof Description 05",
+      "realizationDate": "2017-01-01",
+      "realizationTime": 500000,
+      "realizationDistance": 50,
+      "championship": {
+        "id": 5
+      }
+    },
+    {
+      "name": "Proof Name 06",
+      "description": "Proof Description 06",
+      "realizationDate": "2018-01-01",
+      "realizationTime": 600000,
+      "realizationDistance": 60,
+      "championship": {
+        "id": 6
+      }
+    },
+    {
+      "name": "Proof Name 07",
+      "description": "Proof Description 07",
+      "realizationDate": "2019-01-01",
+      "realizationTime": 700000,
+      "realizationDistance": 70,
+      "championship": {
+        "id": 7
+      }
+    },
+    {
+      "name": "Proof Name 08",
+      "description": "Proof Description 08",
+      "realizationDate": "2020-01-01",
+      "realizationTime": 800000,
+      "realizationDistance": 80,
+      "championship": {
+        "id": 8
+      }
+    },
+    {
+      "name": "Proof Name 09",
+      "description": "Proof Description 09",
+      "realizationDate": "2021-01-01",
+      "realizationTime": 900000,
+      "realizationDistance": 90,
+      "championship": {
+        "id": 9
+      }
+    },
+    {
+      "name": "Proof Name 10",
+      "description": "Proof Description 10",
+      "realizationDate": "2022-01-01",
+      "realizationTime": 1000000,
+      "realizationDistance": 100,
+      "championship": {
+        "id": 10
+      }
+    }
+  ],
+  "swimming-style": [
+    {
+      "name": "Swimming Style Name 01",
+      "description": "Swimming Style 01"
+    },
+    {
+      "name": "Swimming Style Name 02",
+      "description": "Swimming Style 02"
+    },
+    {
+      "name": "Swimming Style Name 03",
+      "description": "Swimming Style 03"
+    },
+    {
+      "name": "Swimming Style Name 04",
+      "description": "Swimming Style 04"
+    },
+    {
+      "name": "Swimming Style Name 05",
+      "description": "Swimming Style 05"
+    },
+    {
+      "name": "Swimming Style Name 06",
+      "description": "Swimming Style 06"
+    },
+    {
+      "name": "Swimming Style Name 07",
+      "description": "Swimming Style 07"
+    },
+    {
+      "name": "Swimming Style Name 08",
+      "description": "Swimming Style 08"
+    },
+    {
+      "name": "Swimming Style Name 09",
+      "description": "Swimming Style 09"
+    },
+    {
+      "name": "Swimming Style Name 10",
+      "description": "Swimming Style 10"
+    }
+  ],
+  "proof-swimming-style": [
+    {
+      "proof": {
+        "id": 1
+      },
+      "swimmingStyle": {
+        "id": 1
+      }
+    },
+    {
+      "proof": {
+        "id": 2
+      },
+      "swimmingStyle": {
+        "id": 2
+      }
+    },
+    {
+      "proof": {
+        "id": 3
+      },
+      "swimmingStyle": {
+        "id": 3
+      }
+    },
+    {
+      "proof": {
+        "id": 4
+      },
+      "swimmingStyle": {
+        "id": 4
+      }
+    },
+    {
+      "proof": {
+        "id": 5
+      },
+      "swimmingStyle": {
+        "id": 5
+      }
+    },
+    {
+      "proof": {
+        "id": 6
+      },
+      "swimmingStyle": {
+        "id": 6
+      }
+    },
+    {
+      "proof": {
+        "id": 7
+      },
+      "swimmingStyle": {
+        "id": 7
+      }
+    },
+    {
+      "proof": {
+        "id": 8
+      },
+      "swimmingStyle": {
+        "id": 8
+      }
+    },
+    {
+      "proof": {
+        "id": 9
+      },
+      "swimmingStyle": {
+        "id": 9
+      }
+    },
+    {
+      "proof": {
+        "id": 10
+      },
+      "swimmingStyle": {
+        "id": 10
+      }
+    }
+  ],
+  "team": [
+    {
+      "name": "Team Name 01",
+      "description": "Team Description 01",
+      "foundationDate": "2013-01-01",
+      "titlesNumber": 1,
+      "championshipsNumber": 1,
+      "coach": {
+        "id": 1
+      }
+    },
+    {
+      "name": "Team Name 02",
+      "description": "Team Description 02",
+      "foundationDate": "2014-01-01",
+      "titlesNumber": 2,
+      "championshipsNumber": 2,
+      "coach": {
+        "id": 2
+      }
+    },
+    {
+      "name": "Team Name 03",
+      "description": "Team Description 03",
+      "foundationDate": "2015-01-01",
+      "titlesNumber": 3,
+      "championshipsNumber": 3,
+      "coach": {
+        "id": 3
+      }
+    },
+    {
+      "name": "Team Name 04",
+      "description": "Team Description 04",
+      "foundationDate": "2016-01-01",
+      "titlesNumber": 4,
+      "championshipsNumber": 4,
+      "coach": {
+        "id": 4
+      }
+    },
+    {
+      "name": "Team Name 05",
+      "description": "Team Description 05",
+      "foundationDate": "2017-01-01",
+      "titlesNumber": 5,
+      "championshipsNumber": 5,
+      "coach": {
+        "id": 5
+      }
+    },
+    {
+      "name": "Team Name 06",
+      "description": "Team Description 06",
+      "foundationDate": "2018-01-01",
+      "titlesNumber": 6,
+      "championshipsNumber": 6,
+      "coach": {
+        "id": 6
+      }
+    },
+    {
+      "name": "Team Name 07",
+      "description": "Team Description 07",
+      "foundationDate": "2019-01-01",
+      "titlesNumber": 7,
+      "championshipsNumber": 7,
+      "coach": {
+        "id": 7
+      }
+    },
+    {
+      "name": "Team Name 08",
+      "description": "Team Description 08",
+      "foundationDate": "2020-01-01",
+      "titlesNumber": 8,
+      "championshipsNumber": 8,
+      "coach": {
+        "id": 8
+      }
+    },
+    {
+      "name": "Team Name 09",
+      "description": "Team Description 09",
+      "foundationDate": "2021-01-01",
+      "titlesNumber": 9,
+      "championshipsNumber": 9,
+      "coach": {
+        "id": 9
+      }
+    },
+    {
+      "name": "Team Name 10",
+      "description": "Team Description 10",
+      "foundationDate": "2022-01-01",
+      "titlesNumber": 10,
+      "championshipsNumber": 10,
+      "coach": {
+        "id": 10
+      }
+    }
+  ],
+  "proof-team": [
+    {
+      "proof": {
+        "id": 1
+      },
+      "team": {
+        "id": 1
+      }
+    },
+    {
+      "proof": {
+        "id": 2
+      },
+      "team": {
+        "id": 2
+      }
+    },
+    {
+      "proof": {
+        "id": 3
+      },
+      "team": {
+        "id": 3
+      }
+    },
+    {
+      "proof": {
+        "id": 4
+      },
+      "team": {
+        "id": 4
+      }
+    },
+    {
+      "proof": {
+        "id": 5
+      },
+      "team": {
+        "id": 5
+      }
+    },
+    {
+      "proof": {
+        "id": 6
+      },
+      "team": {
+        "id": 6
+      }
+    },
+    {
+      "proof": {
+        "id": 7
+      },
+      "team": {
+        "id": 7
+      }
+    },
+    {
+      "proof": {
+        "id": 8
+      },
+      "team": {
+        "id": 8
+      }
+    },
+    {
+      "proof": {
+        "id": 9
+      },
+      "team": {
+        "id": 9
+      }
+    },
+    {
+      "proof": {
+        "id": 10
+      },
+      "team": {
+        "id": 10
+      }
+    }
+  ],
+  "record": [
+    {
+      "name": "Record Name 01",
+      "description": "Record Description 01",
+      "distance": 100,
+      "realizationDate": "2013-01-01",
+      "realizationTime": 100000,
+      "proof": {
+        "id": 1
+      }
+    },
+    {
+      "name": "Record Name 02",
+      "description": "Record Description 02",
+      "distance": 200,
+      "realizationDate": "2014-01-01",
+      "realizationTime": 200000,
+      "proof": {
+        "id": 2
+      }
+    },
+    {
+      "name": "Record Name 03",
+      "description": "Record Description 03",
+      "distance": 300,
+      "realizationDate": "2015-01-01",
+      "realizationTime": 300000,
+      "proof": {
+        "id": 3
+      }
+    },
+    {
+      "name": "Record Name 04",
+      "description": "Record Description 04",
+      "distance": 400,
+      "realizationDate": "2016-01-01",
+      "realizationTime": 400000,
+      "proof": {
+        "id": 4
+      }
+    },
+    {
+      "name": "Record Name 05",
+      "description": "Record Description 05",
+      "distance": 500,
+      "realizationDate": "2017-01-01",
+      "realizationTime": 500000,
+      "proof": {
+        "id": 5
+      }
+    },
+    {
+      "name": "Record Name 06",
+      "description": "Record Description 06",
+      "distance": 600,
+      "realizationDate": "2018-01-01",
+      "realizationTime": 800000,
+      "proof": {
+        "id": 8
+      }
+    },
+    {
+      "name": "Record Name 07",
+      "description": "Record Description 07",
+      "distance": 700,
+      "realizationDate": "2019-01-01",
+      "realizationTime": 700000,
+      "proof": {
+        "id": 7
+      }
+    },
+    {
+      "name": "Record Name 08",
+      "description": "Record Description 08",
+      "distance": 800,
+      "realizationDate": "2020-01-01",
+      "realizationTime": 800000,
+      "proof": {
+        "id": 8
+      }
+    },
+    {
+      "name": "Record Name 09",
+      "description": "Record Description 09",
+      "distance": 900,
+      "realizationDate": "2021-01-01",
+      "realizationTime": 900000,
+      "proof": {
+        "id": 9
+      }
+    },
+    {
+      "name": "Record Name 10",
+      "description": "Record Description 10",
+      "distance": 1000,
+      "realizationDate": "2022-01-01",
+      "realizationTime": 1000000,
+      "proof": {
+        "id": 10
+      }
+    }
+  ],
+  "swimmer": [
+    {
+      "name": "Swimmer Name 01",
+      "email": "swimmeremail01@cbea.com.br",
+      "registrationNumber": "01",
+      "registrationDate": "2013-01-01",
+      "sexo": "M",
+      "cellPhone": "(11) 11111-1111",
+      "landline": "(11) 1111-1111",
+      "cep": "11111-111",
+      "address": "Swimmer Address 01",
+      "numberBronzeMedals": 1,
+      "numberSilverMedals": 1,
+      "numberGoldMedals": 1,
+      "team": {
+        "id": 1
+      }
+    },
+    {
+      "name": "Swimmer Name 02",
+      "email": "swimmeremail02@cbea.com.br",
+      "registrationNumber": "02",
+      "registrationDate": "2014-01-01",
+      "sexo": "M",
+      "cellPhone": "(22) 22222-2222",
+      "landline": "(22) 2222-2222",
+      "cep": "22222-222",
+      "address": "Swimmer Address 02",
+      "numberBronzeMedals": 2,
+      "numberSilverMedals": 2,
+      "numberGoldMedals": 2,
+      "team": {
+        "id": 2
+      }
+    },
+    {
+      "name": "Swimmer Name 03",
+      "email": "swimmeremail03@cbea.com.br",
+      "registrationNumber": "03",
+      "registrationDate": "2015-01-01",
+      "sexo": "M",
+      "cellPhone": "(33) 33333-3333",
+      "landline": "(33) 3333-3333",
+      "cep": "33333-333",
+      "address": "Swimmer Address 03",
+      "numberBronzeMedals": 3,
+      "numberSilverMedals": 3,
+      "numberGoldMedals": 3,
+      "team": {
+        "id": 3
+      }
+    },
+    {
+      "name": "Swimmer Name 04",
+      "email": "swimmeremail04@cbea.com.br",
+      "registrationNumber": "04",
+      "registrationDate": "2016-01-01",
+      "sexo": "M",
+      "cellPhone": "(44) 44444-4444",
+      "landline": "(44) 4444-4444",
+      "cep": "44444-444",
+      "address": "Swimmer Address 04",
+      "numberBronzeMedals": 4,
+      "numberSilverMedals": 4,
+      "numberGoldMedals": 4,
+      "team": {
+        "id": 4
+      }
+    },
+    {
+      "name": "Swimmer Name 05",
+      "email": "swimmeremail05@cbea.com.br",
+      "registrationNumber": "05",
+      "registrationDate": "2017-01-01",
+      "sexo": "M",
+      "cellPhone": "(55) 55555-5555",
+      "landline": "(55) 5555-5555",
+      "cep": "55555-555",
+      "address": "Swimmer Address 05",
+      "numberBronzeMedals": 5,
+      "numberSilverMedals": 5,
+      "numberGoldMedals": 5,
+      "team": {
+        "id": 5
+      }
+    },
+    {
+      "name": "Swimmer Name 06",
+      "email": "swimmeremail06@cbea.com.br",
+      "registrationNumber": "06",
+      "registrationDate": "2018-01-01",
+      "sexo": "F",
+      "cellPhone": "(66) 66666-6666",
+      "landline": "(66) 6666-6666",
+      "cep": "66666-666",
+      "address": "Swimmer Address 06",
+      "numberBronzeMedals": 6,
+      "numberSilverMedals": 6,
+      "numberGoldMedals": 6,
+      "team": {
+        "id": 6
+      }
+    },
+    {
+      "name": "Swimmer Name 07",
+      "email": "swimmeremail07@cbea.com.br",
+      "registrationNumber": "07",
+      "registrationDate": "2019-01-01",
+      "sexo": "F",
+      "cellPhone": "(77) 77777-7777",
+      "landline": "(77) 7777-7777",
+      "cep": "77777-777",
+      "address": "Swimmer Address 07",
+      "numberBronzeMedals": 7,
+      "numberSilverMedals": 7,
+      "numberGoldMedals": 7,
+      "team": {
+        "id": 7
+      }
+    },
+    {
+      "name": "Swimmer Name 08",
+      "email": "swimmeremail08@cbea.com.br",
+      "registrationNumber": "08",
+      "registrationDate": "2020-01-01",
+      "sexo": "F",
+      "cellPhone": "(88) 88888-8888",
+      "landline": "(88) 8888-8888",
+      "cep": "88888-888",
+      "address": "Swimmer Address 08",
+      "numberBronzeMedals": 8,
+      "numberSilverMedals": 8,
+      "numberGoldMedals": 8,
+      "team": {
+        "id": 8
+      }
+    },
+    {
+      "name": "Swimmer Name 09",
+      "email": "swimmeremail09@cbea.com.br",
+      "registrationNumber": "09",
+      "registrationDate": "2021-01-01",
+      "sexo": "F",
+      "cellPhone": "(99) 99999-9999",
+      "landline": "(99) 9999-9999",
+      "cep": "99999-999",
+      "address": "Swimmer Address 09",
+      "numberBronzeMedals": 9,
+      "numberSilverMedals": 9,
+      "numberGoldMedals": 9,
+      "team": {
+        "id": 9
+      }
+    },
+    {
+      "name": "Swimmer Name 10",
+      "email": "swimmeremail10@cbea.com.br",
+      "registrationNumber": "10",
+      "registrationDate": "2022-01-01",
+      "sexo": "F",
+      "cellPhone": "(10) 10101-0101",
+      "landline": "(10) 1010-1010",
+      "cep": "10101-010",
+      "address": "Swimmer Address 10",
+      "numberBronzeMedals": 10,
+      "numberSilverMedals": 10,
+      "numberGoldMedals": 10,
+      "team": {
+        "id": 10
+      }
+    }
+  ]
+}
