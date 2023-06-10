@@ -1,0 +1,69 @@
+#RunOnReady
+runOnReady:
+  championship: true
+  coach: true
+  proof: true
+  proofswimmingstyle: true
+  proofteam: true
+  record: true
+  swimmer: true
+  swimmingstyle: true
+  team: true
+
+# SERVER CONFIG
+server:
+  compression:
+    enabled: true
+  http2:
+    enabled: true
+  port: 8080
+  servlet:
+    context-path: /cbea
+  header-ip-candidates: X-Forwarded-For,Proxy-Client-IP,WL-Proxy-Client-IP,HTTP_X_FORWARDED_FOR,HTTP_X_FORWARDED,HTTP_X_CLUSTER_CLIENT_IP,HTTP_CLIENT_IP,HTTP_FORWARDED_FOR,HTTP_FORWARDED,HTTP_VIA,REMOTE_ADDR
+
+# SPRING CONFIG
+spring:
+  application:
+    name: CBEA.ms-api.JAVA
+  datasource:
+    driver-class-name: org.h2.Driver
+    url: jdbc:h2:mem:db;DB_CLOSE_DELAY=-1;DB_CLOSE_ON_EXIT=true
+    username: sa
+    password:
+  h2:
+    console.enabled: true
+    console.path: /h2-console
+    console.settings.trace: true
+    spring.h2.console.settings.web-allow-others: false
+  http:
+    encoding:
+      charset: UTF-8
+      enabled: true
+  jackson:
+    default-property-inclusion: non_null
+    deserialization:
+      fail-on-unknown-properties: false
+    serialization:
+      write-dates-as-timestamps: false
+      FAIL_ON_EMPTY_BEANS: false
+    time-zone: Brazil/East
+    locale: pt-BR
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate.format_sql: true
+    mandatory-file-encoding: UTF-8
+  devtools:
+    livereload:
+      enabled: false
+
+management:
+  health:
+    db:
+      enabled: false
+
+#SWAGGER
+server.swagger.base.url: https://cbea-ms.up.railway.app/cbea
